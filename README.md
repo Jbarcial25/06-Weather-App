@@ -28,9 +28,9 @@
 
 * Image of the Weather Dashboard Website:
 
-* ![Weather-Dashboard1](/06-Weather-App/assests/img/2022-06-21%20(2).png)
+* ![Weather-Dashboard1](https://github.com/Jbarcial25/06-Weather-App/blob/main/assests/img/2022-06-21%20(2).png?raw=true)
 
-* ![Weather-Dashboard2](/06-Weather-App/assests/img/2022-06-21%20(5).png)
+* ![Weather-Dashboard2](https://github.com/Jbarcial25/06-Weather-App/blob/main/assests/img/2022-06-21%20(5).png?raw=true)
 
 
 
