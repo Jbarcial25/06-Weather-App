@@ -1,0 +1,160 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    background-color: rgb(135,206,235);
+}
+
+header {
+    justify-content: center;
+    background-color: rgb(78, 141, 223);
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 4px 6px 0 black;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h6 {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    background-color: rgb(176,196,222);
+    color: white;
+    font-weight: bold;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 black;
+    padding: 5px;
+}
+
+.search {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 4px 4px 8px 0 black;
+    text-align: center;
+}
+
+.searchCard {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(224,255,255);
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.history-btn {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(202, 143, 236);
+    color: black;
+}
+
+.history {
+    background-color: white;
+    color: black;
+}
+
+.history:hover {
+    background-color: rgb(247, 247, 181);
+    color: black;
+}
+
+.currentCard {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(78, 141, 223);
+    border-radius: 10px;
+    padding: 10px 0px 10px 0px;
+    box-shadow: 0 4px 8px 0 black;
+    padding: 1px 0px 10px 0px;
+    margin: 5px 0px 30px 5px;
+}
+
+.forecastCard {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(78, 141, 223);
+    border-radius: 10px;
+    padding: 10px 0px 10px 0px;
+    box-shadow: 0 4px 8px 0 black;
+    padding: 10px 0px 10px 0px;
+    margin: 5px 0px 30px 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+.uvcard {
+    display: inline;
+    border-radius: 5px;
+    padding: 3px 5px 0px 5px;
+    box-shadow: 0 4px 8px 0 black;
+    width: 40px;
+}
+
+.green {
+    background-color: green;
+    color: black;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.orange {
+    background-color: orange;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    color: black;
+}
